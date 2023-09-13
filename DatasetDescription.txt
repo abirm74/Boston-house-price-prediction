@@ -1,0 +1,33 @@
+Gold Real Estate: Real estate agency in the United States, includes more than 4600 houses;
+In order to have a complete picture of the real estate and economic dynamics in the United States in an interval extending from May 2014 to July 2014 (3 months), 
+this information of the houses was collected:
+01 : Date  jour/ mois/ année de la prise des données de la maison   
+02 : Prix Le prix de la maison 
+03 : Bedrooms C’est le nombre des chambres
+04 : bathrooms C’est le nombre de salle de bain dans la maison
+05 : Sqft Living la surface de la salle commune
+06 : Sqft lot : c’est la surface de totale de la maison
+07 : floors Le nombre d’étage par maison 
+08 : Waterfront vue sur mer
+•	« 0 » si elle n’a pas en face  
+•	« 1 » si elle est en face
+09 : View 
+« 0 » : nulle
+« 1 » : médiocre 
+« 2 » : passable
+« 3 » : Bonne
+« 4 » : Très bonne 
+10 : condition : Représente l’état de la maison
+                  « 1 » : mauvaise 
+                  « 2 » : assez mauvaise
+                  « 3 » :  passable 
+                  « 4 » :  bonne 
+                  « 5 » : très bonne
+11 :  Sqft-above C’est la surface du toit en pieds carré
+12:  Sqft-basement C’est la surface de la partie souterraine (Cave) en pieds carré
+13:  Sqft-basement C’est la surface de la partie souterraine (Cave) en pieds carré
+14:  Year built L ‘année de construction de la maison  
+15 :  Year renovated  L’année de rénovation de la maison 
+16 : Street : C’est la rue dans laquelle se situe la maison 
+17 : City : La ville ou se situe la maison   
+18 : State-zip : Cote postal de l’état ou se situe le domicile  
